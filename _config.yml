@@ -1,0 +1,5 @@
+theme: jekyll-theme-hacker
+encoding: utf-8
+site_name: ma yue
+plugins:
+  - jekyll-seo-tag
